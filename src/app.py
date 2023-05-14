@@ -10,7 +10,7 @@ customtkinter.set_appearance_mode("dark")
 class G(customtkinter.CTk):
     def __init__(self):
         super().__init__()
-        self.title("unSNI-tool")
+        self.title("Tool - 3 1 3")
         self.resizable(0,0)
         self.geometry("460x200")
         self.FONT = ("Comic Sans MS",15,"bold")
